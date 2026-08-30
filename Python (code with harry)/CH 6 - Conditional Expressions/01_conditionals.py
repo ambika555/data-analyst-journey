@@ -1,0 +1,11 @@
+a = int(input('Enter your age:'))
+#if else ladder
+
+if(a >= 18):
+    print('you are above te age of consent')
+
+else:
+    print('you are below the age of consent')
+
+print('End of program')
+
